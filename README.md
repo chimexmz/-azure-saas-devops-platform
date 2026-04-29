@@ -43,7 +43,7 @@ It simulates a real-world production environment, focusing on automation, scalab
 6. Deployment to Azure
 7. Monitoring & Logging
 
-## 📅 Study Commitment
+## 📅 Project Commitment
 1 hour 30 minutes daily
 
 ## 👨‍💻 Author
